@@ -1,0 +1,29 @@
+{
+  "name": "asciidoctorjs-npm-wrapper",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anthonny/asciidoctorjs-npm-wrapper",
+  "keywords": ["asciidoc", "asciidoctor.js", "npm"],
+  "author": "Anthonny Quérouil <anthonny.querouil@gmail.com> (http://anthonnyquerouil.fr/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonny/asciidoctorjs-npm-wrapper.git"
+  },
+  "description": "Npm wrapper for Asciidoctor.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonny/asciidoctorjs-npm-wrapper/issues"
+  },
+  "dependencies": {
+    "opal-npm-wrapper": "git://github.com/anthonny/opal-npm-wrapper.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-string-replace": "^0.2.7"
+  }
+}

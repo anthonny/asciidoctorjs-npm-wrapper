@@ -1,0 +1,2 @@
+return Opal.Asciidoctor;
+}();
