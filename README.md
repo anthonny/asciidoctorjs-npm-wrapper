@@ -12,6 +12,18 @@ npm install asciidoctorjs-npm-wrapper --save
 ### Usage
 ```
 var asciidoctor = require('asciidoctorjs-npm-wrapper');
+
+console.log(asciidoctor.$render('== Test', null));
+
+/*
+<div class="sect1">
+<h2 id="_test">Test/h2>
+<div class="sectionbody">
+
+</div>
+</div>
+*/
+
 ```
 
 ### License
