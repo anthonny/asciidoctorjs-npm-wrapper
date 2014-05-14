@@ -18,7 +18,7 @@
     "url": "https://github.com/anthonny/asciidoctorjs-npm-wrapper/issues"
   },
   "dependencies": {
-    "opal-npm-wrapper": "git://github.com/anthonny/opal-npm-wrapper.git"
+    "opal-npm-wrapper": "git://github.com/anthonny/opal-npm-wrapper.git#0.1.0"
   },
   "license": "MIT",
   "devDependencies": {
