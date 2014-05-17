@@ -1,2 +1,5 @@
-return Opal.Asciidoctor;
+  return {
+    Asciidoctor: Opal.Asciidoctor,
+    Opal: Opal
+  }
 }();

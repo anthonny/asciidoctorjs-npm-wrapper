@@ -11,7 +11,10 @@ npm install asciidoctorjs-npm-wrapper --save
 
 ### Usage
 ```
-var asciidoctor = require('asciidoctorjs-npm-wrapper');
+var asciidoctor = require('asciidoctorjs-npm-wrapper').Asciidoctor;
+
+// You can also get Opal instance
+var opal = require('asciidoctorjs-npm-wrapper').Opal;
 
 console.log(asciidoctor.$render('== Test', null));
 

@@ -1,6 +1,6 @@
 {
   "name": "asciidoctorjs-npm-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/anthonny/asciidoctorjs-npm-wrapper",
   "keywords": ["asciidoc", "asciidoctor.js", "npm"],
   "author": "Anthonny Quérouil <anthonny.querouil@gmail.com> (http://anthonnyquerouil.fr/)",
