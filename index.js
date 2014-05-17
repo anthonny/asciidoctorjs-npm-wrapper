@@ -13515,5 +13515,8 @@ if (name == null) name = nil;
   })(self)
 })(Opal);
 
-return Opal.Asciidoctor;
+  return {
+    Asciidoctor: Opal.Asciidoctor,
+    Opal: Opal
+  }
 }();
