@@ -1,3 +1,3 @@
-var asciidoc = require('./index.js');
+var asciidoc = require('./index.js').Asciidoctor;
 
-console.log(asciidoc.$render('== Test', null));
+console.log(asciidoc.$convert('== Test', null));

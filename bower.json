@@ -1,6 +1,6 @@
 {
   "name": "asciidoctorjs-npm-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/anthonny/asciidoctorjs-npm-wrapper",
   "authors": [
     "Anthonny Quérouil <anthonny.querouil@gmail.com>"
@@ -14,6 +14,6 @@
     "tests"
   ],
   "devDependencies": {
-    "asciidoctor.js": "https://github.com/anthonny/asciidoctor.js.git#1.5.0-preview.6"
+    "asciidoctor.js": "https://github.com/anthonny/asciidoctor.js.git#1.5.0-preview.7"
   }
 }
